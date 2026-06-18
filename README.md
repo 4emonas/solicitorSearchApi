@@ -5,6 +5,7 @@ The UI that receives data from this API is https://github.com/4emonas/SolicitorF
 
 This API requires the following database table to be created in postgres:
 
+```
 -- Table: public.solicitor
 
 -- DROP TABLE IF EXISTS public.solicitor;
@@ -51,3 +52,5 @@ CREATE INDEX IF NOT EXISTS solicitor_name_idx
     (name COLLATE pg_catalog."default" ASC NULLS LAST)
     WITH (deduplicate_items=True)
     TABLESPACE pg_default;
+
+```
