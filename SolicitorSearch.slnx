@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="SolicitorSearch.Common/SolicitorSearch.Common.csproj" Id="dbde94f6-84d6-47ae-beb3-059ee94cf56e" />
+  <Project Path="SolicitorSearch.DataAccess/SolicitorSearch.DataAccess.csproj" Id="c1bbc315-a6c1-4d34-b792-2f052ddba273" />
+  <Project Path="SolicitorSearch.Domain/SolicitorSearch.Domain.csproj" Id="6177e262-1842-4894-916a-6f8cba8191ee" />
+  <Project Path="SolicitorSearch.Tests/SolicitorSearch.Tests.csproj" Id="ccb6e61a-a8b4-4f74-8f6a-cc3cbad5f064" />
+  <Project Path="SolicitorSearch.Utilities/SolicitorSearch.Utilities.csproj" Id="43c761f9-d2ea-4322-985f-638c9d227c13" />
+  <Project Path="SolicitorSearch/SolicitorSearch.API.csproj" />
+</Solution>

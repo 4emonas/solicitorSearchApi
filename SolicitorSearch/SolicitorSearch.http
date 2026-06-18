@@ -1,0 +1,6 @@
+@Test_HostAddress = http://localhost:5217
+
+GET {{Test_HostAddress}}/solicitorsearch/
+Accept: application/json
+
+###
